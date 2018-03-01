@@ -1,0 +1,3 @@
+C:/documents/projects/Hackathons/hash_code_2018/HashCode2018/cmake-build-debug/CMakeFiles/HashCode2018.dir
+C:/documents/projects/Hackathons/hash_code_2018/HashCode2018/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/documents/projects/Hackathons/hash_code_2018/HashCode2018/cmake-build-debug/CMakeFiles/rebuild_cache.dir

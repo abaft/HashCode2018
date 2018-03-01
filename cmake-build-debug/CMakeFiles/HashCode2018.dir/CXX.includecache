@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/documents/projects/Hackathons/hash_code_2018/HashCode2018/main.cpp
+iostream
+-
+fstream
+-
+array
+-
+vector
+-
+algorithm
+-
+cmath
+-
+unordered_map
+-
+map
+-
+tuple
+-
+string_view
+-
+
